@@ -2,3 +2,4 @@ streamlit
 assemblyai
 pydub
 python-dotenv
+ffmpeg
